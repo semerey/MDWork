@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MDWork
 //
-//  Created by Dima Horobets on 11.10.2020.
+//  Created by Anna Semerey on 11.10.2020.
 //
 
 import UIKit
